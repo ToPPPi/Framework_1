@@ -1,0 +1,25 @@
+1659741822266	geckodriver	INFO	Listening on 127.0.0.1:62543
+1659741825316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dmitry\\AppData\\Local\\Temp\\rust_mozprofileev3e5v"
+1659741825908	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62544
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dmitry\\AppData\\Local\\Temp\\rust_mozprofileev3e5v\\search.json.mozlz4", (void 0)))
+1659741827361	Marionette	INFO	Listening on port 62564
+DevTools listening on ws://localhost:62544/devtools/browser/af79f7e5-2e09-40ae-a790-2015d20b57db
+Read port: 62564
+1659741827447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 400: TypeError: e(...).setup is not a function
+1659741830080	Marionette	INFO	Stopped listening on port 62564
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dmitry\AppData\Local\Temp\rust_mozprofileev3e5v\protections.sqlite
+1659741831892	geckodriver	INFO	Listening on 127.0.0.1:62640

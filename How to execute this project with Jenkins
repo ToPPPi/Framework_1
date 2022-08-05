@@ -1,0 +1,19 @@
+How to run this Framework with Jenkins locally:
+
+1. Add to Execute Windows batch command:
+    - cd C:\PycharmProjects\Frameworks\Framework_1
+    - pytest --browser chrome
+
+1.1 If there a custom url:
+    Без параметров в Jenkins:
+    - cd C:\PycharmProjects\Frameworks\Framework_1
+    - pytest --browser chrome -- url https://demoqa.com/login
+
+    С параметрами Jenkins:
+    - cd C:\PycharmProjects\Frameworks\Framework_1
+    - pytest --browser %browser% --url %url%
+
+
+How to run this Framework with Jenkins from Github:
+
+1.
