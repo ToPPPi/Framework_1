@@ -1,0 +1,165 @@
+08/04/2022 08:54:31 PM: INFO: ====== WebDriver manager ======
+08/04/2022 08:54:32 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 08:54:32 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 08:54:32 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 08:54:35 PM: INFO: ************** Starting... **************
+08/04/2022 08:54:35 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 08:54:35 PM: INFO: TestUserName
+08/04/2022 08:54:35 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 08:54:35 PM: INFO: ************** Finishing... **************
+08/04/2022 08:55:17 PM: INFO: ====== WebDriver manager ======
+08/04/2022 08:55:18 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 08:55:18 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 08:55:18 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 08:55:21 PM: INFO: ====== WebDriver manager ======
+08/04/2022 08:55:21 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 08:55:21 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 08:55:21 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 08:55:24 PM: INFO: ************** Starting... **************
+08/04/2022 08:55:24 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 08:55:24 PM: INFO: TestUserName
+08/04/2022 08:55:24 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 08:55:24 PM: INFO: ************** Finishing... **************
+08/04/2022 08:59:51 PM: INFO: ====== WebDriver manager ======
+08/04/2022 08:59:51 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 08:59:51 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 08:59:51 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:00:03 PM: INFO: ====== WebDriver manager ======
+08/04/2022 09:00:03 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 09:00:03 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 09:00:03 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:00:06 PM: INFO: ************** Starting... **************
+08/04/2022 09:00:06 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 09:00:07 PM: INFO: TestUserName
+08/04/2022 09:00:07 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 09:00:07 PM: INFO: ************** Finishing... **************
+08/04/2022 09:00:29 PM: INFO: ====== WebDriver manager ======
+08/04/2022 09:00:29 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 09:00:29 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 09:00:29 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:00:32 PM: INFO: ************** Starting... **************
+08/04/2022 09:00:32 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 09:00:32 PM: INFO: TestUserName
+08/04/2022 09:00:33 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 09:00:33 PM: INFO: ************** Finishing... **************
+08/04/2022 09:01:27 PM: INFO: ====== WebDriver manager ======
+08/04/2022 09:01:27 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 09:01:27 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 09:01:27 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:01:30 PM: INFO: ************** Starting... **************
+08/04/2022 09:01:30 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 09:01:30 PM: INFO: TestUserName
+08/04/2022 09:01:30 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 09:01:30 PM: INFO: ************** Finishing... **************
+08/04/2022 09:02:00 PM: INFO: ====== WebDriver manager ======
+08/04/2022 09:02:00 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 09:02:00 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 09:02:00 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:02:03 PM: INFO: ************** Starting... **************
+08/04/2022 09:02:03 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 09:02:03 PM: INFO: TestUserName
+08/04/2022 09:02:03 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 09:02:03 PM: INFO: ************** Finishing... **************
+08/04/2022 09:03:13 PM: INFO: ====== WebDriver manager ======
+08/04/2022 09:03:13 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 09:03:13 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 09:03:14 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:03:37 PM: INFO: ====== WebDriver manager ======
+08/04/2022 09:03:37 PM: INFO: Current google-chrome version is 103.0.5060
+08/04/2022 09:03:37 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/04/2022 09:03:37 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/04/2022 09:03:40 PM: INFO: ************** Starting... **************
+08/04/2022 09:03:40 PM: INFO: ************** Test_001 - test_loging_function **************
+08/04/2022 09:03:40 PM: INFO: TestUserName
+08/04/2022 09:03:40 PM: INFO: Test_001 - test_loging_function - PASSED - User is logged in and the UserName matched with the UserName displayed on the page.
+08/04/2022 09:03:40 PM: INFO: ************** Finishing... **************
+08/05/2022 02:20:51 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:20:51 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:20:51 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:20:51 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/05/2022 02:23:54 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:23:54 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:23:54 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:23:54 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/05/2022 02:25:30 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:25:31 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:25:31 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:25:31 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.address`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.address` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.automotive`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.automotive` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.bank`.
+08/05/2022 02:26:40 PM: DEBUG: Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.barcode`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.barcode` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.color`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.color` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.company`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.company` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.credit_card`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.credit_card` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.currency`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.currency` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.date_time`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.date_time` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.geo`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.geo` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.internet`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.internet` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.job`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.job` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.lorem`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.lorem` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.misc`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.misc` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.person`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.person` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.phone_number`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.phone_number` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+08/05/2022 02:26:40 PM: DEBUG: Looking for locale `en_US` in provider `faker.providers.ssn`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.ssn` has been localized to `en_US`.
+08/05/2022 02:26:40 PM: DEBUG: Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+08/05/2022 02:26:40 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:26:41 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:26:41 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:26:41 PM: DEBUG: Starting new HTTPS connection (1): chromedriver.storage.googleapis.com:443
+08/05/2022 02:26:41 PM: DEBUG: https://chromedriver.storage.googleapis.com:443 "GET /LATEST_RELEASE_103.0.5060 HTTP/1.1" 200 14
+08/05/2022 02:26:41 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/05/2022 02:26:41 PM: DEBUG: POST http://localhost:63699/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+08/05/2022 02:26:41 PM: DEBUG: Starting new HTTP connection (1): localhost:63699
+08/05/2022 02:26:42 PM: DEBUG: http://localhost:63699 "POST /session HTTP/1.1" 200 794
+08/05/2022 02:26:42 PM: DEBUG: Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"103.0.5060.134","chrome":{"chromedriverVersion":"103.0.5060.134 (8ec6fce403b3feb0869b0732eda8bd95011d333c-refs/branch-heads/5060@{#1262})","userDataDir":"C:\\Users\\Dmitry\\AppData\\Local\\Temp\\scoped_dir34120_1362681292"},"goog:chromeOptions":{"debuggerAddress":"localhost:63703"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"1ff3e3f21c4b1ff38d9c5c71388dae2b"}} | headers=HTTPHeaderDict({'Content-Length': '794', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+08/05/2022 02:26:42 PM: DEBUG: Finished Request
+08/05/2022 02:26:42 PM: DEBUG: POST http://localhost:63699/session/1ff3e3f21c4b1ff38d9c5c71388dae2b/timeouts {"implicit": 5000}
+08/05/2022 02:26:42 PM: DEBUG: http://localhost:63699 "POST /session/1ff3e3f21c4b1ff38d9c5c71388dae2b/timeouts HTTP/1.1" 200 14
+08/05/2022 02:26:42 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+08/05/2022 02:26:42 PM: DEBUG: Finished Request
+08/05/2022 02:26:42 PM: DEBUG: POST http://localhost:63699/session/1ff3e3f21c4b1ff38d9c5c71388dae2b/url {"url": "https://demoqa.com/login"}
+08/05/2022 02:26:47 PM: DEBUG: http://localhost:63699 "POST /session/1ff3e3f21c4b1ff38d9c5c71388dae2b/url HTTP/1.1" 200 14
+08/05/2022 02:26:47 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+08/05/2022 02:26:47 PM: DEBUG: Finished Request
+08/05/2022 02:26:47 PM: DEBUG: POST http://localhost:63699/session/1ff3e3f21c4b1ff38d9c5c71388dae2b/window/maximize {}
+08/05/2022 02:26:47 PM: DEBUG: http://localhost:63699 "POST /session/1ff3e3f21c4b1ff38d9c5c71388dae2b/window/maximize HTTP/1.1" 200 52
+08/05/2022 02:26:47 PM: DEBUG: Remote response: status=200 | data={"value":{"height":1056,"width":1936,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '52', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+08/05/2022 02:26:47 PM: DEBUG: Finished Request
+08/05/2022 02:26:47 PM: DEBUG: DELETE http://localhost:63699/session/1ff3e3f21c4b1ff38d9c5c71388dae2b/window {}
+08/05/2022 02:26:51 PM: DEBUG: http://localhost:63699 "DELETE /session/1ff3e3f21c4b1ff38d9c5c71388dae2b/window HTTP/1.1" 200 12
+08/05/2022 02:26:51 PM: DEBUG: Remote response: status=200 | data={"value":[]} | headers=HTTPHeaderDict({'Content-Length': '12', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+08/05/2022 02:26:51 PM: DEBUG: Finished Request
+08/05/2022 02:28:24 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:28:24 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:28:24 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:28:24 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/05/2022 02:29:11 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:29:11 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:29:11 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:29:11 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
+08/05/2022 02:32:53 PM: INFO: ====== WebDriver manager ======
+08/05/2022 02:32:53 PM: INFO: Current google-chrome version is 103.0.5060
+08/05/2022 02:32:53 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+08/05/2022 02:32:53 PM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache

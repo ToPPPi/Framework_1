@@ -1,0 +1,6 @@
+1. Initialize git repository:
+    - git init
+2. To get git status:
+    - git status
+3. To add files to local repository:
+    - git add
