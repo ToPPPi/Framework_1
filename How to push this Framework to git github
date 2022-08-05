@@ -1,12 +1,12 @@
 How to add the code to git and Github.
 
 Before adding files to git repository, ignore some of the files like ".pytest_cache, reports":
-    - touch .gitignore                          (create a folder)
-    - ls                                        (get a list of files)
-    - ls -la                                    (get a list of files)
-    - vi .ignore                                (to start entering files to ignore)
-    - .idea/  and  .pytest_cache/  and  *.log   (Enter some of the folders to ignore)
-    - press "escape" and ":wq"                  (to save folders)
+    - touch .gitignore                                              (create a folder)
+    - ls                                                            (get a list of files)
+    - ls -la                                                        (get a list of files)
+    - vi .ignore                                                    (to start entering files to ignore)
+    - .idea/  and  .pytest_cache/  and  *.log  and  *__pycache__    (Enter some of the folders to ignore)
+    - press "escape" and ":wq"                                      (to save folders)
 
 1. Initialize git repository:
     - git init
@@ -15,7 +15,7 @@ Before adding files to git repository, ignore some of the files like ".pytest_ca
 2. To get git status:
     - git status
 3. To add files to staging area:
-    - git add .    or    - git add *    or    - git -A
+    - git add .    or    - git add *    or    - git add -A
 4. To configure git, run only one time:
     - git config --global user.name "topppi"
     - git config --global user.email "dmitriyqw1@gmail.com"

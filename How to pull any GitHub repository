@@ -1,0 +1,26 @@
+1. To pull a Github repository to PC:
+    - Create a folder and run Git Bash command or use cmd
+    - git clone https://github.com/ToPPPi/Framework_1.git
+
+
+Main branch:
+1. After some work has been done on a project:
+    - git add .
+2. Commit to local repository:
+    - git commit -m "first commit"
+3. After completing working on project, to push to Github:
+    - git push origin main
+    or
+    - git remote set-url origin https://... .git
+
+
+Very important: Working on branches:
+1. First thing to before starting working is to update my project with the new code:
+    - git pull
+2. After create a new branch and switch to it:
+    - git checkout -b feature_1
+3. Commit to local repository this new branch with some code:
+    - git commit -m "new branch feature_1"
+4. After completing working on test cases:
+    - git push origin feature_1
+5. Make a pull request on Github
